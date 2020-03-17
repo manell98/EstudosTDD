@@ -1,7 +1,6 @@
-package br.com.manell.wallet.repository;
+package br.com.manell.wallet.repositories;
 
 import br.com.manell.wallet.domains.User;
-import br.com.manell.wallet.repositories.UserRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
